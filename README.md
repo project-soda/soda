@@ -65,7 +65,7 @@
   
 ## 상위 페이지
 
-  - [Side Projects](https://github.com/daclouds/side-projects-introduction/)
+  - [Side Projects](https://daclouds.github.io/side-projects/)
 
     진행 중(또는 진행 예정)인 사이드 프로젝트를 모아놓은 페이지
 
