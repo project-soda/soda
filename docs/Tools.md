@@ -4,10 +4,14 @@
 
 ## Server
 
+@aterilio @pitachips
+
 - [Node.js](https://nodejs.org/)
 - [Firebase](https://firebase.google.com/)
 
 ## Mobile
+
+@daclouds @pitachips
 
 - [flutter](https://flutter.dev/)
 
