@@ -2,6 +2,18 @@
 
 함께 밥 먹을 사람을 찾아주는 서비스
 
+## 인원 모집 중
+
+### 현재 인원
+  - 개발자 4 (모바일 2, 서버 2), 디자이너 1
+  
+### 모집 분야
+  - 개발자 (서버: node.js /모바일: flutter)
+    - redis, mariadb
+  - 디자이너 (Adobe XD, zeplin)
+  - 기획자
+  - PM (Project Manager)
+
 ## Use Case
 
   - 회의 다녀왔더니 모두 밥 먹으러 가고 없어요.
