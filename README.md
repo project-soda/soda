@@ -79,6 +79,10 @@
   - 1/N
   - 내가 쏠께요
   
+## 설정
+
+  - [기획](https://docs.google.com/presentation/d/1AdU91Q9uH7lMhcU82EQ94gJ7-ZGT4AK8Me1qhxv0K8w)
+  
 ## 상위 페이지
 
   - [Side Projects](https://daclouds.github.io/side-projects/)
