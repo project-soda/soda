@@ -2,6 +2,8 @@
 
 함께 밥 먹을 사람을 찾아주는 서비스
 
+[![송승헌에게 '디너 메이트' 제안하는 서지혜](https://lh4.googleusercontent.com/proxy/Mn7nVgDW0R6NGfswgH9BJsdscGp8rUOfvTg7wKataxS_pn0CO76SEHphckxM-LX22SYyimqMldP9xEMcOFKGfTMVg2fq-buUnPk2OmskXK2InJxeiv8)](https://tv.kakao.com/channel/3529160/cliplink/409729036)
+
 ## 인원 모집 중
 
 ### 현재 인원
