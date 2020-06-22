@@ -7,10 +7,11 @@
 ## 인원 모집 중
 
 ### 현재 인원
-  - 개발자 4 (모바일 2, 서버 2), 디자이너 1, 기획자 1
+  - 개발자 4 (모바일 1.5, 서버 1.5), 디자이너 1, 기획자 1
   
 ### 모집 분야
   - 개발자 (서버: node.js /모바일: flutter)
+    - iOS developer 계정 보유자 우대
     - redis, mariadb
   - 디자이너 (Adobe XD, zeplin)
   - 기획자 (Designer)
